@@ -1,0 +1,11 @@
+total 16
+-rw-r--r-- 1 aomsinrock aomsinrock    0 Oct  9 17:47 edit1.txt
+-rw-r--r-- 1 aomsinrock aomsinrock    0 Oct  9 18:45 edit2.txt
+-rw-r--r-- 1 aomsinrock aomsinrock    0 Oct  9 18:40 progA.c
+-rwxr--r-- 1 aomsinrock aomsinrock 8192 Oct  9 18:44 q1.sh
+-rwxr--r-- 1 aomsinrock aomsinrock 4096 Oct  9 18:03 q2.sh
+-rwxr--r-- 1 aomsinrock aomsinrock 4096 Oct  9 18:21 q3.sh
+-rwxr--r-- 1 aomsinrock aomsinrock  227 Oct  9 18:02 q4.sh
+-rwxr--r-- 1 aomsinrock aomsinrock  102 Oct  9 18:03 q5.sh
+-rw-r--r-- 1 aomsinrock aomsinrock  227 Oct  9 18:21 q6.sh
+drwxr-xr-x 1 aomsinrock aomsinrock 4096 Oct  9 17:50 test
